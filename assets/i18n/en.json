@@ -1,0 +1,155 @@
+{
+  "WELCOME": "Welcome to our website!",
+  "THANK_YOU": "Thank you for visiting.",
+  "SERVICES": "Services",
+  "IOT_EMBEDDED_DROPDOWN": "IoT and Embedded",
+  "IOT_SOLUTION_SUB_DROPDOWN": "IoT Solution Design & Implementation",
+  "EMBEDDED_SYSTEM_SUB_DROPDOWN": "Embedded System Development",
+  "PCB_DESIGN": "PCB Design and Prototyping",
+  "STRATEGIC_SERVICES_DROPDOWN": "Strategic Services",
+  "DESIGN_CONSULTING_SUB_DROPDOWN": "Design Consulting",
+  "TECHNOLOGY_CONSULTING_SUB_DROPDOWN": "Technology Consulting",
+  "BUSINESS_STRATEGY_SUB_DROPDOWN": "Business Strategy",
+  "PRODUCT_MANAGEMENT_SUB_DROPDOWN": "Product Management",
+  "SOFTWARE_ENGINEERING_SERVICES_DROPDOWN": "Software Engineering Services",
+  "SOFTWARE_DEVELOPMENT_SUB_DROPDOWN": "Software Development & Digital Services",
+  "CLOUD_SERVICES_SUB_DROPDOWN": "Cloud Services",
+  "DATA_AND_ANALYTICS_SUB_DROPDOWN": "Data & Analytics",
+  "QUALITY_ENGINEERING_SUB_DROPDOWN": "Quality Engineering",
+  "QUALITY_MANAGEMENT_SERVICES_DROPDOWN": "Quality Management Services",
+  "QUALITY_LIFECYCLE_MANAGEMENT_SUB_DROPDOWN": "Quality Lifecycle Management",
+  "QUALITY_SERVICES_SUB_DROPDOWN": "Quality Services",
+  "QLM_SOFTWARE_SUB_DROPDOWN": "Hykmann QLM Software",
+  "QUALITY_AUDITS_SUB_DROPDOWN": "Quality Audits & Assessments",
+  "PPAP_SUB_DROPDOWN": "PPAP",
+  "TEAM_EXTENSION_DROPDOWN": "Team Extension",
+  "SUSTAINABILITY_DROPDOWN": "Sustainability Services",
+  "ABOUT_US": "About Us",
+  "CONTACT_US": "Contact Us",
+  "CAREER": "Career",
+  "HOME": {
+    "TAGLINE": "EMPOWERING TOMORROW'S TECHNOLOGY TODAY",
+    "EXPERTISE_AND_INNOVATION": "Expertise & Innovation",
+    "EXPERTISE_AND_INNOVATION_DESCRIPTION": "We pride ourselves staying at the front of innovation, constantly pushing boundaries a redefining what's possible.",
+    "TRANSPARENT_PROCESS": "Transparent Process",
+    "TRANSPARENT_PROCESS_DESCRIPTION": "Our transparent process is designed to demystify the journey from concept to delivery.",
+    "CLIENT_CENTRIC_APPROACH": "Client-Centric Approach",
+    "CLIENT_CENTRIC_APPROACH_DESCRIPTION": "Our dedicated team takes the time to listen, & collaborate, ensuring that every interaction a step towards your success.",
+    "COST_EFFECTIVE": "Cost Effective",
+    "COST_EFFECTIVE_DESCRIPTION": "Our commitment to providing cost-effective solutions is ingrained in our mission.",
+    "EXPERTISE_TAGLINE": "Expertise You Can Trust",
+    "GLOBAL_BRAND_PARTNERS": "Global Brand Partners",
+    "OUR_LOCATIONS_HEADER": "Our Locations"
+  },
+  "CONTACT_US_PAGE": {
+    "HEADER": "Connect with Hykmann",
+    "FULL_NAME_LABEL":"Full Name",
+    "COMPANY_NAME_LABEL": "Company Name",
+    "PHONE_NUMBER_LABEL": "Phone Number",
+    "COMPANY_EMAIL_ID_LABEL": "Company Email ID",
+    "SUBJECT_LABEL": "Subject",
+    "MESSAGE_LABEL": "Message",
+    "SUBMIT_BUTTON": "Submit"
+  },
+  "FOOTER": {
+    "FOLLOW_US": "Follow Us",
+    "COMPANY": "Company",
+    "LOCATIONS": "Locations",
+    "CONTACT_US": "Contact Us",
+    "COPYRIGHT_LINE_1": "© Copyright 2024 Hykmann Techno India  Private Limited",
+    "COPYRIGHT_LINE_2": "Made with ❤\uFE0F by Hykmann"
+  },
+  "SERVICES_OFFERED": "Services Offered",
+  "IOT": {
+    "TAGLINE": "Intelligence Embedded in Every Device.",
+    "DESCRIPTION_1": "Revolutionize your business with smart IoT solutions that connect devices, collect real-time data, and enable automation. We provide end-to-end services, including device prototyping, cloud integration, and secure communication protocols to meet your unique requirements.",
+    "DESCRIPTION_2": "Our team excels in developing high-performance embedded systems tailored to specific applications. From microcontroller programming to system integration, we deliver reliable and scalable solutions that drive innovation.",
+    "DESCRIPTION_3": "We provide professional PCB design services that form the foundation of efficient IoT and embedded systems. From schematic design to prototyping and testing, we ensure your devices meet the highest standards of performance and reliability.",
+    "INDUSTRIES": {
+      "HEADER": "INDUSTRIES",
+      "INDUSTRY_1": "Manufacturing",
+      "INDUSTRY_2": "Automotive",
+      "INDUSTRY_3": "Healthcare",
+      "INDUSTRY_4": "Retail",
+      "INDUSTRY_5": "Logistics",
+      "INDUSTRY_6": "AgriTech"
+    }
+  },
+  "STRATEGIC": {
+    "TAGLINE": "Strategic Solutions for a Brighter Future.",
+    "DESIGN_CONSULTING_DESCRIPTION": "Our Design Consulting Service focuses on aligning design thinking with business goals to create meaningful and impactful user experiences. We combine innovation, creativity, and strategic foresight to craft designs that resonate with users and drive business growth.",
+    "TECHNOLOGY_CONSULTING_DESCRIPTION": "Gain a competitive advantage with tailored technology roadmaps and implementations.",
+    "BUSINESS_STRATEGY_DESCRIPTION": "Our Business Strategy Service empowers organizations to navigate market complexities, seize growth opportunities, and achieve a competitive edge. We offer comprehensive consulting to redefine business models, optimize operations, and harness the power of technology to drive sustainable success.",
+    "PRODUCT_MANAGEMENT_DESCRIPTION": "We collaborate with all essential customer stakeholders to define a comprehensive product plan and roadmap, ensuring successful product engineering and management."
+  },
+  "SOFTWARE": {
+    "TAGLINE": "Engineering Excellence, Delivering Innovation.",
+    "SOFTWARE_DEVELOPMENT_DESCRIPTION": "We deliver comprehensive software development solutions, including custom application development, enterprise software, and digital transformation services. Our expertise spans across web, mobile, and cloud-based solutions, designed to drive innovation, improve efficiency, and enhance user experience.",
+    "CLOUD_SERVICES_DESCRIPTION": "Our cloud services help businesses leverage the full potential of cloud computing. From cloud migration and architecture design to managed services and scalability solutions, we ensure secure, cost-effective, and seamless integration of cloud platforms tailored to your specific needs.",
+    "DATA_ANALYTICS_DESCRIPTION": "We empower businesses to make data-driven decisions by providing cutting-edge data and analytics solutions. Our services include data engineering, big data processing, business intelligence, and predictive analytics, enabling you to uncover insights, optimize operations, and gain a competitive edge.",
+    "QUALITY_ENGINEERING_DESCRIPTION": "Our quality engineering services ensure your software meets the highest standards of reliability and performance. We offer end-to-end testing solutions, including manual and automated testing, performance optimization, and compliance verification, delivering flawless user experiences across platforms and devices."
+  },
+  "QUALITY_MANAGEMENT": {
+    "TAGLINE": "Ensuring Excellence at Every Stage.",
+    "QLM_DESCRIPTION": "Our Quality Lifecycle Management services integrate quality assurance at every stage of the product lifecycle. From initial design and development to production and delivery, we ensure consistent compliance with industry standards.",
+    "QUALITY_SERVICES_DESCRIPTION": "We offer comprehensive quality services, including testing, validation, and compliance management. Our expertise spans multiple domains, ensuring that your products and processes meet the highest standards of safety, reliability, and performance, tailored to industry-specific requirements.",
+    "QLM_SOFTWARE_DESCRIPTION": "Hykmann QLM Software is designed to streamline and automate quality lifecycle management. It provides robust tools for process tracking, compliance management, and quality reporting, enabling businesses to achieve control over their quality processes.",
+    "QUALITY_AUDITS_DESCRIPTION": "Our quality audits and assessments provide an in-depth evaluation of your processes, systems, and products. By identifying gaps and areas for improvement, we help organizations enhance compliance, mitigate risks, and adherence industry standards.",
+    "PPAP_DESCRIPTION": "Our PPAP services ensure that your production processes meet the required specifications and quality standards. We guide you through the documentation, validation, and approval phases, enabling seamless collaboration."
+  },
+  "SUSTAINABILITY": {
+    "TAGLINE": "Empowering a Greener Tomorrow.",
+    "DESCRIPTION": "Adapting to disruptive technologies and pursuing sustainable objectives should be a priority for businesses, allowing them to create entirely new dimensions of value in the years to come. It is our mission to help our clients manage the dual transition of the eco-digital era by providing innovative solutions."
+  },
+  "TEAM_EXTENSION": {
+    "TAGLINE": "Scale Your Team, Elevate Your Tech.",
+    "EXTENDED_TEAM":{
+      "HEADER": "Extended Team",
+      "DESCRIPTION": "Expand your core engineering team with flexibility and top-tier talent.",
+      "POINTER_1": "A team profile including skillset definitions, a project backlog, and established processes.",
+      "POINTER_2": "Daily communication with developers and a dedicated manager.",
+      "POINTER_3": "Benefit from additional team capacity, flexible scaling, a strong employer brand, and effective HR management."
+    },
+    "MANAGED_TEAM":{
+      "HEADER": "Managed Team",
+      "DESCRIPTION": "Delegate product development to a dedicated, self-sufficient team.",
+      "POINTER_1": "A product vision including a roadmap, engineering requirements, and project documentation.",
+      "POINTER_2": "Daily communication with developers and a project manager for technical guidance and team management.",
+      "POINTER_3": "Quarterly business reviews to discuss team performance and achievements.",
+      "POINTER_4": "Comprehensive process management, established team practices, and access to our best tech expertise."
+    },
+    "CUSTOM_SOLUTION_DEVELOPMENT":{
+      "HEADER": "Custom Solution Development",
+      "DESCRIPTION": "Address your business challenges with an end-to-end tech solution.",
+      "POINTER_1": "A clear definition of the project scope, timeline, acceptance criteria, and vision.",
+      "POINTER_2": "Regular updates on roadmap progress, budget, milestones, and releases.",
+      "POINTER_3": "End-to-end delivery from vision to a complete product, using solution accelerators to minimize costs and risks."
+    }
+  },
+  "CAREER_PAGE":{
+    "TAGLINE": "Shape Your Future, Ignite Your Career."
+  },
+  "ABOUT_US_PAGE": {
+    "TAGLINE": "Driven by Passion, Defined by Excellence.",
+    "LINE_1": "At Hykmann, we are a fast-growing company powered by a team of young and dynamic talents dedicated to delivering unique ideas and creative solutions. Our journey is a testament to the fusion of innovation and passion, which has been our driving force since our inception.",
+    "LINE_2": "Founded in 2017, Hykmann began with a simple idea and a shared dream—to foster innovation and lead the integration of cutting-edge technology. Over the years, we have transformed challenges into opportunities, embracing every step with a relentless commitment to excellence.",
+    "LINE_3": "Today, Hykmann stands as a beacon of progress, continually pushing boundaries to deliver impactful solutions that empower businesses and inspire change. Together, we shape the future with creativity, innovation, and determination.",
+    "PARTNERS_ASSURANCE_HEADER": "Our Partnerships Assurance."
+  },
+  "COOKIES": {
+    "TITLE": "We use cookies",
+    "DESCRIPTION": "We use cookies to enhance your browsing experience, serve personalized content, and analyze our traffic. By clicking \"Accept\", you consent to our use of cookies.",
+    "ACCEPT_BUTTON": "Accept",
+    "DECLINE_BUTTON": "Decline"
+  },
+  "ERROR_MESSAGE": {
+    "COMPANY_NAME_REQUIRED": "Company Name is required.",
+    "PHONE_NUMBER_INVALID": "Please enter a valid international phone number (e.g., +1-555-1234).",
+    "PHONE_NUMBER_REQUIRED": "Phone Number is required.",
+    "EMAIL_REQUIRED": "Email is required.",
+    "EMAIL_INVALID": "Please enter a valid email.",
+    "SUBJECT_REQUIRED": "Subject is required.",
+    "MESSAGE_REQUIRED": "Message is required.",
+    "SUCCESS_MESSAGE": "Message sent successfully!"
+  }
+}

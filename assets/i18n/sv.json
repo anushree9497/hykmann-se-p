@@ -1,0 +1,155 @@
+{
+  "WELCOME": "Välkommen till vår webbplats!",
+  "THANK_YOU": "Tack för att du besöker oss.",
+  "SERVICES": "Tjänster",
+  "IOT_EMBEDDED_DROPDOWN": "IoT och Embedded",
+  "IOT_SOLUTION_SUB_DROPDOWN": "IoT-lösningsdesign och implementering",
+  "EMBEDDED_SYSTEM_SUB_DROPDOWN": "Utveckling av inbyggda system",
+  "PCB_DESIGN": "PCB-design och prototyptillverkning",
+  "STRATEGIC_SERVICES_DROPDOWN": "Strategiska tjänster",
+  "DESIGN_CONSULTING_SUB_DROPDOWN": "Designkonsult",
+  "TECHNOLOGY_CONSULTING_SUB_DROPDOWN": "Teknisk konsultation",
+  "BUSINESS_STRATEGY_SUB_DROPDOWN": "Affärsstrategi",
+  "PRODUCT_MANAGEMENT_SUB_DROPDOWN": "Produkthantering",
+  "SOFTWARE_ENGINEERING_SERVICES_DROPDOWN": "Programvaruteknik Tjänster",
+  "SOFTWARE_DEVELOPMENT_SUB_DROPDOWN": "Programvaruutveckling och Digitala Tjänster",
+  "CLOUD_SERVICES_SUB_DROPDOWN": "Molntjänster",
+  "DATA_AND_ANALYTICS_SUB_DROPDOWN": "Data och Analys",
+  "QUALITY_ENGINEERING_SUB_DROPDOWN": "Kvalitetsteknik",
+  "QUALITY_MANAGEMENT_SERVICES_DROPDOWN": "Kvalitetshanteringstjänster",
+  "QUALITY_LIFECYCLE_MANAGEMENT_SUB_DROPDOWN": "Kvalitetslivscykelhantering",
+  "QUALITY_SERVICES_SUB_DROPDOWN": "Kvalitetstjänster",
+  "QLM_SOFTWARE_SUB_DROPDOWN": "Hykmann QLM-programvara",
+  "QUALITY_AUDITS_SUB_DROPDOWN": "Kvalitetsrevisioner och Bedömningar",
+  "PPAP_SUB_DROPDOWN": "PPAP",
+  "TEAM_EXTENSION_DROPDOWN": "Teamförlängning",
+  "SUSTAINABILITY_DROPDOWN": "Hållbarhet",
+  "ABOUT_US": "Om Oss",
+  "CONTACT_US": "Kontakta Oss",
+  "CAREER": "Karriär",
+  "HOME": {
+    "TAGLINE": "Stärker morgondagens teknik idag",
+    "EXPERTISE_AND_INNOVATION": "Expertis och Innovation",
+    "EXPERTISE_AND_INNOVATION_DESCRIPTION": "Vi är stolta över att ligga i framkant av innovation, ständigt tänja på gränserna och omdefiniera vad som är möjligt.",
+    "TRANSPARENT_PROCESS": "Transparenta process",
+    "TRANSPARENT_PROCESS_DESCRIPTION": "Vår transparenta process är utformad för att avmystifiera resan från koncept till leverans.",
+    "CLIENT_CENTRIC_APPROACH": "Kundcentrerat Tillvägagångssätt",
+    "CLIENT_CENTRIC_APPROACH_DESCRIPTION": "Vårt dedikerade team tar sig tid att lyssna och samarbeta, för att säkerställa att varje interaktion är ett steg mot din framgång.",
+    "COST_EFFECTIVE": "Kostnadseffektivt",
+    "COST_EFFECTIVE_DESCRIPTION": "Vårt engagemang för att erbjuda kostnadseffektiva lösningar är djupt rotat i vår mission.",
+    "EXPERTISE_TAGLINE": "Expertis Du Kan Lita På",
+    "GLOBAL_BRAND_PARTNERS": "Globala Varumärkespartners",
+    "OUR_LOCATIONS_HEADER": "Våra Lokationer"
+  },
+  "CONTACT_US_PAGE": {
+    "HEADER": "Anslut med Hykmann",
+    "FULL_NAME_LABEL":"Fullständigt Namn",
+    "COMPANY_NAME_LABEL": "Företagsnamn",
+    "PHONE_NUMBER_LABEL": "Telefonnummer",
+    "COMPANY_EMAIL_ID_LABEL": "Företagets E-postadress",
+    "SUBJECT_LABEL": "Ämne",
+    "MESSAGE_LABEL": "Meddelande",
+    "SUBMIT_BUTTON": "Skicka"
+  },
+  "FOOTER": {
+    "FOLLOW_US": "Följ Oss",
+    "COMPANY": "Företag",
+    "LOCATIONS": "Platser",
+    "CONTACT_US": "Kontakta Oss",
+    "COPYRIGHT_LINE_1": "© Upphovsrätt 2024 Hykmann Techno India Private Limited",
+    "COPYRIGHT_LINE_2": "Tillverkad med ❤\uFE0F av Hykmann"
+  },
+  "SERVICES_OFFERED": "Erbjudna Tjänster",
+  "IOT": {
+    "TAGLINE": "Intelligens Inbäddad i Varje Enhet",
+    "DESCRIPTION_1": "Revolutionera ditt företag med smarta IoT-lösningar som kopplar samman enheter, samlar in realtidsdata och möjliggör automatisering. Vi erbjuder helhetslösningar, inklusive prototyputveckling av enheter, molnintegration och säkra kommunikationsprotokoll för att möta dina unika behov.",
+    "DESCRIPTION_2": "Vårt team är specialiserat på att utveckla högpresterande inbyggda system anpassade till specifika applikationer. Från programmering av mikrokontrollers till systemintegration levererar vi tillförlitliga och skalbara lösningar som främjar innovation.",
+    "DESCRIPTION_3": "Vi erbjuder professionella tjänster inom PCB-design som utgör grunden för effektiva IoT- och inbyggda system. Från schematisk design till prototyptillverkning och testning säkerställer vi att dina enheter uppfyller de högsta kraven på prestanda och tillförlitlighet.",
+    "INDUSTRIES": {
+      "HEADER": "INDUSTRIER",
+      "INDUSTRY_1": "Tillverkning",
+      "INDUSTRY_2": "Fordonsindustri",
+      "INDUSTRY_3": "Hälso- och sjukvård",
+      "INDUSTRY_4": "Detaljhandel",
+      "INDUSTRY_5": "Logistik",
+      "INDUSTRY_6": "Jordbruksteknik"
+    }
+  },
+  "STRATEGIC": {
+    "TAGLINE": "Strategiska Lösningar för en Ljusare Framtid",
+    "DESIGN_CONSULTING_DESCRIPTION": "Vår designkonsulttjänst fokuserar på att anpassa design thinking med affärsmål för att skapa meningsfulla och effektfulla användarupplevelser. Vi kombinerar innovation, kreativitet och strategisk insikt för att utforma design som resonerar med användare och driver affärstillväxt.",
+    "TECHNOLOGY_CONSULTING_DESCRIPTION": "Få en konkurrensfördel med skräddarsydda teknologiplaner och implementeringar.",
+    "BUSINESS_STRATEGY_DESCRIPTION": "Vår affärsstrategitjänst ger organisationer möjlighet att navigera i marknadens komplexitet, utnyttja tillväxtmöjligheter och uppnå en konkurrensfördel. Vi erbjuder omfattande konsulttjänster för att omdefiniera affärsmodeller, optimera verksamheten och dra nytta av teknikens kraft för att driva hållbar framgång.",
+    "PRODUCT_MANAGEMENT_DESCRIPTION": "Vi samarbetar med alla viktiga kundintressenter för att definiera en omfattande produktplan och färdplan, vilket säkerställer framgångsrik produktutveckling och -hantering."
+  },
+  "SOFTWARE": {
+    "TAGLINE": "Ingenjörsexcellens, Levererar Innovation",
+    "SOFTWARE_DEVELOPMENT_DESCRIPTION": "Vi levererar omfattande lösningar för programvaruutveckling, inklusive anpassad applikationsutveckling, företagsprogramvara och tjänster för digital transformation. Vår expertis sträcker sig över webb-, mobil- och molnbaserade lösningar, utformade för att driva innovation, förbättra effektivitet och förbättra användarupplevelsen.",
+    "CLOUD_SERVICES_DESCRIPTION": "Våra molntjänster hjälper företag att utnyttja den fulla potentialen av molnberäkning. Från molnmigrering och arkitektdesign till hanterade tjänster och skalbarhetslösningar säkerställer vi säker, kostnadseffektiv och smidig integration av molnplattformar anpassade efter dina specifika behov.",
+    "DATA_ANALYTICS_DESCRIPTION": "Vi ger företag möjlighet att fatta datadrivna beslut genom att tillhandahålla avancerade lösningar för data och analys. Våra tjänster inkluderar datateknik, big data-behandling, affärsanalys och prediktiv analys, vilket gör det möjligt för dig att upptäcka insikter, optimera verksamheten och få en konkurrensfördel.",
+    "QUALITY_ENGINEERING_DESCRIPTION": "Våra kvalitetstekniktjänster säkerställer att din programvara uppfyller de högsta standarderna för tillförlitlighet och prestanda. Vi erbjuder heltäckande testlösningar, inklusive manuella och automatiserade tester, prestandaoptimering och efterlevnadsverifiering, för att leverera felfria användarupplevelser över plattformar och enheter."
+  },
+  "QUALITY_MANAGEMENT": {
+    "TAGLINE": "Säkerställer excellens i varje steg.",
+    "QLM_DESCRIPTION": "Våra tjänster för kvalitetshantering under livscykeln integrerar kvalitetssäkring i varje steg av produktens livscykel. Från initial design och utveckling till produktion och leverans säkerställer vi kontinuerlig efterlevnad av branschstandarder.",
+    "QUALITY_SERVICES_DESCRIPTION": "Vi erbjuder omfattande kvalitetstjänster, inklusive testning, validering och efterlevnadshantering. Vår expertis sträcker sig över flera områden och säkerställer att dina produkter och processer uppfyller de högsta standarderna för säkerhet, tillförlitlighet och prestanda, anpassade efter branschspecifika krav.",
+    "QLM_SOFTWARE_DESCRIPTION": "Hykmann QLM-programvaran är utformad för att effektivisera och automatisera kvalitetshanteringens livscykel. Den erbjuder robusta verktyg för processtracking, efterlevnadshantering och kvalitetsrapportering, vilket ger företag möjlighet att uppnå kontroll över sina kvalitetsprocesser.",
+    "QUALITY_AUDITS_DESCRIPTION": "Våra kvalitetsrevisioner och bedömningar erbjuder en djupgående utvärdering av dina processer, system och produkter. Genom att identifiera brister och förbättringsområden hjälper vi organisationer att förbättra efterlevnad, minska risker och säkerställa följsamhet till branschstandarder.",
+    "PPAP_DESCRIPTION": "Våra PPAP-tjänster säkerställer att dina produktionsprocesser uppfyller de erforderliga specifikationerna och kvalitetsstandarderna. Vi vägleder dig genom dokumentations-, validerings- och godkännandefaserna, vilket möjliggör smidigt samarbete."
+  },
+  "SUSTAINABILITY": {
+    "TAGLINE": "Stärker en Grönare Morgondag.",
+    "DESCRIPTION": "Att anpassa sig till disruptiva teknologier och sträva efter hållbara mål bör vara en prioritet för företag, vilket möjliggör skapandet av helt nya värdedimensioner under de kommande åren. Det är vår mission att hjälpa våra kunder att hantera den dubbla övergången i den ekodigitala eran genom att tillhandahålla innovativa lösningar."
+  },
+  "TEAM_EXTENSION": {
+    "TAGLINE": "Skala upp ditt team, Höj din teknik.",
+    "EXTENDED_TEAM":{
+      "HEADER": "Förlängt Team",
+      "DESCRIPTION": "Utöka ditt kärnteam inom teknik med flexibilitet och förstklassig kompetens.",
+      "POINTER_1": "En teamprofil som inkluderar definitioner av kompetensuppsättningar, en projektbacklog och etablerade processer.",
+      "POINTER_2": "Daglig kommunikation med utvecklare och en dedikerad manager.",
+      "POINTER_3": "Dra nytta av ökad teamkapacitet, flexibel skalning, ett starkt arbetsgivarvarumärke och effektiv HR-hantering."
+    },
+    "MANAGED_TEAM":{
+      "HEADER": "Hanterat Team",
+      "DESCRIPTION": "Delegera produktutveckling till ett dedikerat och självförsörjande team.",
+      "POINTER_1": "En produktvision som inkluderar en färdplan, tekniska krav och projektdokumentation.",
+      "POINTER_2": "Daglig kommunikation med utvecklare och en projektledare för teknisk vägledning och teamhantering.",
+      "POINTER_3": "Kvartalsvisa affärsgenomgångar för att diskutera teamets prestationer och framgångar.",
+      "POINTER_4": "Omfattande processhantering, etablerade teamrutiner och tillgång till vår bästa tekniska expertis."
+    },
+    "CUSTOM_SOLUTION_DEVELOPMENT":{
+      "HEADER": "Utveckling av Anpassade Lösningar",
+      "DESCRIPTION": "Ta itu med dina affärsutmaningar med en heltäckande teknisk lösning.",
+      "POINTER_1": "En tydlig definition av projektets omfattning, tidslinje, acceptanskriterier och vision.",
+      "POINTER_2": "Regelbundna uppdateringar om färdplansframsteg, budget, milstolpar och lanseringar.",
+      "POINTER_3": "Heltäckande leverans från vision till en färdig produkt, med hjälp av lösningsacceleratorer för att minimera kostnader och risker."
+    }
+  },
+  "CAREER_PAGE":{
+    "TAGLINE": "Forma Din Framtid, Tänd Din Karriär."
+  },
+  "ABOUT_US_PAGE": {
+    "TAGLINE": "Drivna av Passion, Definierade av Excellens.",
+    "LINE_1": "På Hykmann är vi ett snabbväxande företag drivet av ett team av unga och dynamiska talanger som är dedikerade till att leverera unika idéer och kreativa lösningar. Vår resa är ett bevis på fusionen av innovation och passion, som har varit vår drivkraft sedan starten.",
+    "LINE_2": "Grundat 2017 började Hykmann med en enkel idé och en gemensam dröm – att främja innovation och leda integrationen av banbrytande teknik. Under åren har vi förvandlat utmaningar till möjligheter och omfamnat varje steg med ett orubbligt engagemang för excellens.",
+    "LINE_3": "Idag står Hykmann som en symbol för framsteg och fortsätter att tänja på gränserna för att leverera effektfulla lösningar som stärker företag och inspirerar till förändring. Tillsammans formar vi framtiden med kreativitet, innovation och beslutsamhet.",
+    "PARTNERS_ASSURANCE_HEADER": "Vår Partnerskapsgaranti."
+  },
+  "COOKIES": {
+    "TITLE": "Vi använder cookies",
+    "DESCRIPTION": "Vi använder cookies för att förbättra din surfupplevelse, tillhandahålla personligt anpassat innehåll och analysera vår trafik. Genom att klicka på \"Acceptera\" samtycker du till vår användning av cookies.",
+    "ACCEPT_BUTTON": "Acceptera",
+    "DECLINE_BUTTON": "Avböj"
+  },
+  "ERROR_MESSAGE": {
+    "COMPANY_NAME_REQUIRED": "Företagsnamn krävs.",
+    "PHONE_NUMBER_INVALID": "Ange ett giltigt internationellt telefonnummer (t.ex. +1-555-1234).",
+    "PHONE_NUMBER_REQUIRED": "Telefonnummer krävs.",
+    "EMAIL_REQUIRED": "E-postadress krävs.",
+    "EMAIL_INVALID": "Ange en giltig e-postadress.",
+    "SUBJECT_REQUIRED": "Ämne krävs.",
+    "MESSAGE_REQUIRED": "Meddelande krävs.",
+    "SUCCESS_MESSAGE": "Meddelandet har skickats!"
+  }
+}
